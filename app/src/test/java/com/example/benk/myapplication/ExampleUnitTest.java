@@ -1,4 +1,4 @@
-package com.example.user.myapplication;
+package com.example.benk.myapplication;
 
 import org.junit.Test;
 
